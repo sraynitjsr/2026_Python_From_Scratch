@@ -44,6 +44,14 @@ deactivate
 
 # Flow How You Should Follow This Complete Repo.
 
-## 1. Read 0_Python_Topics_From_Scratch.md First.
+#### 1. Read 0_Python_Topics_From_Scratch.md First.
 
-## 2. Read 1_Interactive_Execution.md Now and Experiment Yourself First.
+#### 2. Read 1_Interactive_Execution.md Now and Experiment Yourself First.
+
+#### 3. Now, CodeBase Folder Has Just 2 Files => main.py and requirements.txt => Now Learn Real Python Next, Topic Wise, Follow Just `def main():`
+
+---
+
+# END OF REAME
+
+---
