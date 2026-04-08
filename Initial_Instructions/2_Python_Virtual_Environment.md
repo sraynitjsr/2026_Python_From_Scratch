@@ -1,4 +1,4 @@
-# 🐍 Python Virtual Environments (venv)
+# 🐍 Python Virtual Environments (venv) 
 
 ## What is a Virtual Environment?
 
