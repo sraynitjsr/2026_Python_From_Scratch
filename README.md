@@ -3,7 +3,7 @@
 ## 📚 How to Use This Repository
 
 ### 1. Read Documentation in Order
-- Start with `1_Interactive_Execution.md`
+- Start with `1_Interactive_Execution.md` Inside Initial_Instructions Folder
 - Then `2_Python_Virtual_Environment.md`
 - Follow numbered files sequentially
 
